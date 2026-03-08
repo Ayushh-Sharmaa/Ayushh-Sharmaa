@@ -67,7 +67,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayushh-Sharmaa&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-Sharmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-Sharmaa&theme=dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
@@ -75,7 +75,16 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ayushh-Sharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushh-Sharmaa/Ayushh-Sharmaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushh-Sharmaa/Ayushh-Sharmaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayushh-Sharmaa/Ayushh-Sharmaa/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Ayushh-Sharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
 ##
 > 💬 _Always open to meaningful conversations, tech collaboration, and building impactful AI and cloud solutions._
