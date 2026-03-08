@@ -61,21 +61,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayushh-Sharmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=Ayushh-Sharmaa&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-Sharmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-![](https://github-readme-stats.vercel.app/api?username=Ayushh-Sharmaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ayushh-Sharmaa&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-Sharmaa&theme=dark&hide_border=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Ayushh-Sharmaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📊 GitHub Contributions
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=Ayushh-Sharmaa&limit=5&theme=dark&combine_all_yearly_contributions=true) --- 
+[![](https://visitcount.itsvg.in/api?id=Ayushh-Sharmaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushh-Sharmaa/Ayushh-Sharmaa/output/pacman-contribution-graph-dark.svg">
