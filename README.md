@@ -20,9 +20,6 @@
 - **Founder — Global Society of Founders (GSF)**
 
 ---
-# 💫 About Me:
-🔭 Working on AI applications using Google Cloud Vertex AI and RAG<br>🌱 Currently learning Generative AI, LLMs, and Cloud AI systems<br>👯 Open to collaborate on AI, cloud, and open-source projects<br>💬 Ask me about Google Cloud, AI learning paths, and developer communities<br>⚡ Fun fact: Built a 5,000+ member student tech community<br><br>Roles:<br>Campus Crew – HackerRank<br>Campus Mantri – GeeksforGeeks<br>Arcade Facilitator – Google Cloud<br>Founder – Global Society of Founders (GSF)
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayush_sharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-sharmaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.sharmaa@hotmail.com) 
