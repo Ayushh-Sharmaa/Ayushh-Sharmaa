@@ -35,7 +35,7 @@
 class AyushSharma:
 
     # ── Identity ──────────────────────────────────────────────────────
-    name        = "Ayush Sharma"
+    name        = "Ayush Sharma" <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
     location    = "Mathura, Uttar Pradesh, India 🇮🇳"
     education   = "B.Tech AI & ML (CSE) · GL Bajaj Group · 2025 → 2029"
 
