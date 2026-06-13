@@ -1,15 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               AYUSH SHARMA — GitHub Profile README         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
+ 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:4285F4,100:00D68F&height=220&section=header&text=AYUSH%20SHARMA&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20%7C%20Cloud%20%7C%20Builder%20%7C%20Community%20Founder&descColor=00D68F&descSize=18&descAlignY=62&animation=fadeIn"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=00D68F&background=0D111700&center=true&vCenter=true&width=720&lines=🤖+Building+RAG+%26+Vertex+AI+pipelines+for+enterprise;☁️+Google+Student+Ambassador+2026+%7C+GCP+Facilitator;🌍+Scaled+GSF+community+0+→+5%2C000%2B+in+5+months;🚀+Execution+%3E+Education+—+Shipping%2C+not+just+learning;🎓+B.Tech+AI%2FML+%40+GL+Bajaj+%7C+Open+to+Internship+2026" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-sharmaa)
