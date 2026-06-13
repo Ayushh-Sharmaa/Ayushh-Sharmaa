@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushh-Sharmaa)
  
 <br/><br/>
-
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 <img src="https://komarev.com/ghpvc/?username=Ayushh-Sharmaa&label=Profile+Views&color=00D68F&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Ayushh-Sharmaa?label=Followers&style=flat-square&color=4285F4"/>
@@ -35,7 +35,7 @@
 class AyushSharma:
 
     # ── Identity ──────────────────────────────────────────────────────
-    name        = "Ayush Sharma" <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
+    name        = "Ayush Sharma" 
     location    = "Mathura, Uttar Pradesh, India 🇮🇳"
     education   = "B.Tech AI & ML (CSE) · GL Bajaj Group · 2025 → 2029"
 
