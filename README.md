@@ -1,381 +1,732 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               AYUSH SHARMA — GitHub Profile README         -->
-<!--               Enhanced with Animations & Transitions       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:4285F4,100:00D68F&height=220&section=header&text=AYUSH%20SHARMA&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20%7C%20Cloud%20%7C%20Builder%20%7C%20Community%20Founder&descColor=00D68F&descSize=18&descAlignY=62&animation=fadeIn"/>
-
-<!-- ✨ ENHANCED TYPING ANIMATION - Now with proper display ✨ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=00D68F&background=0D111700&center=true&vCenter=true&width=720&lines=🤖+Building+RAG+%26+Vertex+AI+pipelines+for+enterprise;☁️+Google+Student+Ambassador+2026+%7C+GCP+Facilitator;🌍+Scaled+GSF+community+0+→+5%2C000%2B+in+5+months;🚀+Execution+%3E+Education+—+Shipping%2C+not+just+learning;🎓+B.Tech+AI%2FML+%40+GL+Bajaj+%7C+Open+to+Internship+2026;💡+200%2B+MVPs+shipped+%7C+4%2C000%2B+Learners+Mentored;⚡+Creating+impact+through+code+%26+community" alt="Typing SVG - Ayush's Dynamic Profile" />
-</a>
-
-<br/><br/>
-
-<!-- 🔗 SOCIAL LINKS WITH SMOOTH HOVER ANIMATIONS 🔗 -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/ayushh-sharmaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" style="transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;"/>
-  </a>
-  <a href="mailto:ayush.sharmaa@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&logoWidth=20" alt="Email" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://x.com/xAyush07">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" alt="Twitter" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://discord.com/users/ayush_sharmaa">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20" alt="Discord" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://www.skills.google/public_profiles/1b1ac0dc-2352-4584-ac57-e7b9a60cbc9c">
-    <img src="https://img.shields.io/badge/Google%20Cloud%20Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=20" alt="GCP" style="transition: transform 0.3s ease;"/>
-  </a>
-  <a href="https://github.com/Ayushh-Sharmaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" style="transition: transform 0.3s ease;"/>
-  </a>
-</div>
-
-<br/><br/>
-
-<!-- 📊 PROFILE METRICS WITH ANIMATION 📊 -->
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; animation: slideInUp 0.8s ease;">
-  <img src="https://komarev.com/ghpvc/?username=Ayushh-Sharmaa&label=Profile+Views&color=00D68F&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Ayushh-Sharmaa?label=Followers&style=flat-square&color=4285F4" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/🟢_Open_To-Jun–Aug_2026_Internship-00D68F?style=flat-square" alt="Open to Internship"/>
-  <img src="https://img.shields.io/badge/📍_Location-Mathura%2C_UP%2C_India-4285F4?style=flat-square" alt="Location"/>
-</div>
-
-</div>
-
----
-
-## 🧬 Who I Am
-
-```python
-╔════════════════════════════════════════════════════════════╗
-║           AYUSH SHARMA — The Full Picture                  ║
-╚════════════════════════════════════════════════════════════╝
-
-class AyushSharma:
-
-    # ── 👤 Identity ──────────────────────────────────────────────
-    name        = "Ayush Sharma"
-    location    = "Mathura, Uttar Pradesh, India 🇮🇳"
-    education   = "B.Tech AI & ML (CSE) · GL Bajaj Group · 2025 → 2029"
-    bio         = "Building RAG systems + scaling communities from zero to scale"
-
-    # ── 🤖 What I Build ──────────────────────────────────────────
-    ai_stack    = ["RAG Pipelines", "Vertex AI", "Gemini", "LLMs", "GenAI"]
-    cloud       = "Google Cloud Platform — 155,497 pts · 100+ badges"
-    philosophy  = "Execution > Education"
-
-    # ── 🌍 Communities I Founded ─────────────────────────────────
-    gsf         = "Global Society of Founders: 5,000+ builders · 15 countries"
-    nexasphere  = "Campus Ecosystem: 300+ members · 40+ deployed projects"
-
-    # ── 📈 Numbers That Matter ──────────────────────────────────
-    mentored    = "4,000+ learners · 92% GCP lab completion rate"
-    shipped     = "200+ MVPs built in 90 days · $0 marketing"
-    labs_run    = "50+ hands-on GCP labs · 200+ live session participants"
-
-    # ── 🎯 Availability ─────────────────────────────────────────
-    open_to     = "Internship: June / July / August 2026"
-    shipping    = "Actively shipping 🚀"
-    mantra      = "Most students collect certificates. I build systems."
-```
-
----
-
-## ⚡ Impact at a Glance
-
-<div align="center">
-
-| 🎯 | **Metric** | **Details** |
-|:--:|:--:|:--|
-| 🌍 | **5,000+ Community** | Global Society of Founders · 15 countries · 5 months · $0 marketing |
-| 🎓 | **4,000+ Learners** | Google Cloud Arcade Facilitator · 50+ labs · 92% completion rate |
-| 🛠 | **40+ Projects** | NexaSphere campus ecosystem · 8 workshops · 85% hands-on rate |
-| 🏅 | **155,497 GCP Pts** | 100+ Google Cloud badges · [View Profile ↗](https://www.skills.google/public_profiles/1b1ac0dc-2352-4584-ac57-e7b9a60cbc9c) |
-| 🚀 | **200+ MVPs** | GSF "Build in Public" initiative · 90-day sprint · $0 budget |
-| 🤖 | **RAG Systems** | Enterprise-grade GenAI · Multimodal RAG · Gemini APIs |
-
-</div>
-
----
-
-## 💼 Experience & Achievements
-
-### 🔵 **Google Student Ambassador 2026** ✨
-**Google** · Mathura, North India | *Apr 2026 – Present*
-
-> Selected from thousands of applicants globally
-
-- 🎤 **Organized 5 workshops** on GCP, Firebase & TensorFlow for **500+ students**
-- 🤝 **Partnered with Google Developer Groups (GDG)** for bootcamps, speaker sessions & hackathons
-- 📍 **North India Bootcamp Series** — running across Mathura, Delhi, Gurgaon
-- 🎯 **Impact**: 500+ students trained · 50+ college partnerships initiated
-
----
-
-### 🌿 **GirlScript Summer of Code 2026** 🚀
-**Project Admin · Mentor · Ambassador** | *May 2026 – Present*
-
-- 👥 **Managing 3 open-source repositories** with **48-hr code review SLA**
-- 🧑‍🤝‍🧑 **Guiding 20+ contributors** through first production-grade PRs
-- 📚 **Onboarded 100+ participants** via structured live sessions
-
----
-
-### ☁️ **Google Cloud Arcade Facilitator — Cohort 2**
-**Google Cloud Skills Boost · India** | *Jul – Oct 2025*
-
-- 📊 **Mentored 4,000+ learners** across **50+ hands-on GCP labs**
-- 🎬 **Ran 200+ live sessions** on IAM, VPC, Containerization
-- 🏆 **92% lab completion rate** · Awarded **Official Google Facilitator Certificate**
-- 💡 **Labs Covered**: Cloud Architecture, DevOps, Security, Data, AI/ML
-
----
-
-### 🏆 **Google Cloud Arcade Participant**
-*Jan – Jul 2025* | **Earned Arcade Legend Tier** — top performance across all labs
-
----
-
-## 🚀 What I've Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 **Global Society of Founders (GSF)**
-`Founder` | Jan 2026 – Present
-
-**Execution-first community for student builders globally.**
-
-```
-Growth Timeline:
-Jan: Launched with 5 founders
-Feb: 50 members
-Mar: 300 members  
-Apr: 1,500 members
-May: 5,000+ members ↑↑↑
-```
-
-- 📈 **0 → 5,000+ members in 5 months**
-- 🌍 **15 countries** · zero paid marketing
-- 🛠 **200+ MVPs & SaaS tools shipped**
-- 📊 **40% monthly active engagement**
-- 🤝 **Mentor-backed accountability system**
-- 💬 **[Join GSF Discord](https://discord.com/users/ayush_sharmaa)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 **NexaSphere Campus Ecosystem**
-`Founder` | Feb 2026 – Present
-
-**Student-led tech hub @ GL Bajaj Group**
-
-```
-Tracks:
-├─ 🤖 AI/ML          (80+ members)
-├─ ☁️ Cloud          (60+ members)
-├─ 🌐 Web Dev        (70+ members)
-├─ 📱 Android        (50+ members)
-└─ 🔐 Cybersecurity  (40+ members)
-```
-
-- 👥 **300+ active members across 5 tracks**
-- 📚 **8 workshops** · 85% hands-on rate
-- 🚀 **40+ deployed projects + live demos**
-- 🤝 **50+ mentor-junior developer pairs**
-- 🏅 **Official GL Bajaj Campus Initiative**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 **RAG & Vertex AI Pipelines**
-`AI Developer` | 2025 – Present
-
-**Enterprise-grade Retrieval-Augmented Generation systems**
-
-- 🔗 **LangChain** · **Vector Databases**
-- 🧠 **Gemini API** · **Vertex AI Search**
-- 📊 **Multimodal RAG** · **Document Processing**
-- ⚡ **Production Deployments** on GCP
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ **50+ GCP Hands-On Labs**
-`Facilitator` | 2025
-
-**Structured lab delivery across:**
-
-```
-✓ Cloud Architecture
-✓ IAM & Networking  
-✓ Kubernetes & GKE
-✓ BigQuery & Analytics
-✓ Vertex AI & ML Ops
-✓ Terraform IaC
-```
-
-**Delivered to 4,000+ learners**
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### **🤖 AI / ML / GenAI**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### **☁️ Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **🛠 Dev & Databases**
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-> 🔗 **[View Full Google Cloud Profile — 155,497 pts · 100+ Badges ↗](https://www.skills.google/public_profiles/1b1ac0dc-2352-4584-ac57-e7b9a60cbc9c)**
-
-<div align="center">
-
-#### **☁️ Key Google Cloud Skill Badges**
-
-![Facilitator](https://img.shields.io/badge/Arcade%20Facilitator%20Cohort%202-Official%20Cert-4285F4?style=flat-square&logo=google-cloud)
-![Legend](https://img.shields.io/badge/Arcade%20Legend%20Tier-Top%20Performer-FF6B35?style=flat-square)
-![Vertex AI](https://img.shields.io/badge/Build%20%26%20Deploy%20ML%20on%20Vertex%20AI-34A853?style=flat-square&logo=google-cloud)
-![Multimodal RAG](https://img.shields.io/badge/Multimodal%20RAG%20with%20Gemini-8E75B2?style=flat-square&logo=google)
-![BigQuery ML](https://img.shields.io/badge/Engineer%20Data%20%26%20BigQuery%20ML-4285F4?style=flat-square&logo=google-cloud)
-![Kubernetes](https://img.shields.io/badge/Manage%20Kubernetes%20on%20GKE-326CE5?style=flat-square&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform%20on%20Google%20Cloud-7B42BC?style=flat-square&logo=terraform)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security%20Fundamentals-EA4335?style=flat-square&logo=google-cloud)
-![Gemini Streamlit](https://img.shields.io/badge/GenAI%20Apps%20with%20Gemini%20%26%20Streamlit-FE4B4B?style=flat-square&logo=streamlit)
-![Serverless](https://img.shields.io/badge/Serverless%20Apps%20on%20Cloud%20Run-4285F4?style=flat-square&logo=google-cloud)
-
-#### **🤖 AI & Professional Certifications**
-
-![Responsible AI](https://img.shields.io/badge/Responsible%20AI%20for%20Digital%20Leaders-34A853?style=flat-square&logo=google-cloud)
-![Neo4j](https://img.shields.io/badge/Neo4j%20Certified%20Professional-008CC1?style=flat-square&logo=neo4j)
-![Intro GenAI](https://img.shields.io/badge/Introduction%20to%20Generative%20AI-4285F4?style=flat-square&logo=google)
-![Intro LLMs](https://img.shields.io/badge/Introduction%20to%20LLMs-4285F4?style=flat-square&logo=google)
-
-#### **🌟 Official Ambassadorships**
-
-![Google Ambassador](https://img.shields.io/badge/Google%20Student%20Ambassador%202026-4285F4?style=flat-square&logo=google)
-![HackerRank](https://img.shields.io/badge/HackerRank%20Campus%20Crew-00EA64?style=flat-square&logo=hackerrank)
-![GFG](https://img.shields.io/badge/GeeksforGeeks%20Campus%20Mantri-2F8D46?style=flat-square&logo=geeksforgeeks)
-![IIT Delhi](https://img.shields.io/badge/eDC%20IIT%20Delhi%20Ambassador-003087?style=flat-square)
-![Hack2skill](https://img.shields.io/badge/Hack2skill%20Ambassador-FF6B35?style=flat-square)
-![Naukri](https://img.shields.io/badge/Naukri%20Campus%20Ambassador-0058A0?style=flat-square)
-
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushh-Sharmaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=4285F4&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-Sharmaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushh-Sharmaa&bg_color=0D1117&color=00D68F&line=4285F4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
-
-<div align="center">
-
-### **Open to Internship: June / July / August 2026** 🚀
-
-**✅ Perfect fit roles:**
-- 🤖 AI/ML Engineer · RAG Systems · GenAI Product Engineer
-- ☁️ Cloud Solutions Architect · Google Cloud Specialist
-- 🛠 Full-Stack Developer · Backend Engineer
-- 🌐 DevOps / Cloud Infrastructure · SRE
-
-**Expected Graduation:** August 2029  
-**Preferred Stack:** Python · GCP · LLMs · Kubernetes  
-**Bonus Points:** Open-source contribution · startup experience · product mindset
-
----
-
-### **💡 Let's Build Together**
-
-> *"Most students collect certificates. I build systems and communities that execute."*
-
-**I'm interested in:**
-- 🤖 **AI/ML Projects** — RAG systems, LLMs, Vertex AI, Multimodal AI
-- ☁️ **Cloud Architecture** — GCP, infrastructure-as-code, serverless
-- 🔗 **Open Source** — Contributing & maintaining production systems
-- 🤝 **Community Partnerships** — Scaling impact through collaboration
-
-**Let's ship something real together.**
-
-<br/>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-sharmaa)
-[![Email Me](https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ayush.sharmaa@hotmail.com)
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xAyush07)
-[![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ayush_sharmaa)
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D68F,50:4285F4,100:0D1117&height=130&section=footer&animation=fadeIn"/>
-
-<div align="center">
-  <sub>⭐ <b>If you're a builder, not just a learner — you know what to do.</b></sub>
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=Ayushh-Sharmaa&icon=6&color=6" alt="Profile Visits"/>
-  <br/>
-  <sub>💬 <b>DM me if you're shipping something real. Let's collaborate.</b></sub>
-</div>
-
----
-
-<details>
-<summary><b>🔧 How this README was enhanced:</b></summary>
-
-</details>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Sharma - AI/ML Engineer & Cloud Architect</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #00D68F;
+            --secondary: #4285F4;
+            --dark: #0D1117;
+            --darker: #1a1a2e;
+            --text: #e9ecef;
+            --text-muted: #adb5bd;
+            --accent: #FF6B6B;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, var(--dark) 0%, var(--darker) 100%);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* ANIMATIONS */
+        @keyframes slideInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes typewriter {
+            from {
+                width: 0;
+                opacity: 0;
+            }
+            to {
+                width: 100%;
+                opacity: 1;
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        @keyframes shimmer {
+            0% { background-position: -1000px 0; }
+            100% { background-position: 1000px 0; }
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* HEADER */
+        header {
+            min-height: 90vh;
+            background: linear-gradient(135deg, #0D1117 0%, #1a3a52 50%, var(--primary) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at 20% 50%, rgba(66, 133, 244, 0.15) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 80%, rgba(0, 214, 143, 0.1) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .header-content {
+            text-align: center;
+            z-index: 2;
+            animation: slideInDown 1s ease-out;
+        }
+
+        h1 {
+            font-size: clamp(3rem, 8vw, 5rem);
+            font-weight: 900;
+            margin-bottom: 10px;
+            letter-spacing: -2px;
+            background: linear-gradient(135deg, #fff, var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            font-size: clamp(1rem, 3vw, 1.5rem);
+            color: var(--primary);
+            margin-bottom: 30px;
+            font-weight: 300;
+            animation: slideInUp 1s ease-out 0.2s both;
+        }
+
+        .tagline {
+            font-size: 1.1rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 40px;
+            animation: slideInUp 1s ease-out 0.4s both;
+        }
+
+        /* CTA BUTTONS */
+        .cta-group {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+            animation: slideInUp 1s ease-out 0.6s both;
+        }
+
+        .btn {
+            padding: 14px 28px;
+            border-radius: 8px;
+            border: 2px solid transparent;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: var(--dark);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 214, 143, 0.3);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--text);
+            border-color: var(--text);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(233, 236, 239, 0.1);
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+
+        /* METRICS SECTION */
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 60px;
+            padding: 0 20px;
+        }
+
+        .metric {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            padding: 25px;
+            border-radius: 12px;
+            border: 1px solid rgba(0, 214, 143, 0.2);
+            text-align: center;
+            animation: slideInUp 1s ease-out;
+            transition: all 0.3s ease;
+        }
+
+        .metric:hover {
+            border-color: var(--primary);
+            background: rgba(0, 214, 143, 0.1);
+            transform: translateY(-5px);
+        }
+
+        .metric-number {
+            font-size: 2.5rem;
+            font-weight: 900;
+            color: var(--primary);
+            margin-bottom: 5px;
+        }
+
+        .metric-label {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* CONTAINER */
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* SECTIONS */
+        section {
+            padding: 80px 0;
+            border-bottom: 1px solid rgba(0, 214, 143, 0.1);
+        }
+
+        section:last-child {
+            border-bottom: none;
+        }
+
+        section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        section h2::before {
+            content: '';
+            width: 4px;
+            height: 40px;
+            background: linear-gradient(180deg, var(--primary), transparent);
+            border-radius: 2px;
+        }
+
+        /* EXPERIENCE CARDS */
+        .experience-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(0, 214, 143, 0.1);
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            transition: all 0.3s ease;
+            animation: slideInUp 0.8s ease-out;
+        }
+
+        .experience-card:hover {
+            background: rgba(0, 214, 143, 0.08);
+            border-color: var(--primary);
+            transform: translateX(5px);
+        }
+
+        .exp-title {
+            font-size: 1.5rem;
+            color: var(--primary);
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+
+        .exp-company {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .exp-description {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text);
+            margin-bottom: 15px;
+        }
+
+        .exp-highlights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .highlight {
+            background: rgba(66, 133, 244, 0.1);
+            padding: 10px 15px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            color: var(--secondary);
+            border-left: 3px solid var(--secondary);
+        }
+
+        /* TECH STACK */
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+
+        .tech-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(66, 133, 244, 0.3);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            cursor: default;
+        }
+
+        .tech-item:hover {
+            background: rgba(66, 133, 244, 0.15);
+            border-color: var(--secondary);
+            transform: translateY(-3px);
+        }
+
+        /* STATS */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+
+        .stat-box {
+            background: rgba(0, 214, 143, 0.05);
+            border: 2px solid var(--primary);
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 900;
+            color: var(--primary);
+            margin-bottom: 5px;
+        }
+
+        .stat-text {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        /* FOOTER */
+        footer {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 50px 0;
+            border-top: 1px solid rgba(0, 214, 143, 0.1);
+            text-align: center;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 30px 0;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: rgba(66, 133, 244, 0.1);
+            border: 2px solid var(--secondary);
+            color: var(--secondary);
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: var(--secondary);
+            color: white;
+            transform: translateY(-3px);
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            section h2 { font-size: 1.8rem; }
+            .metrics { grid-template-columns: 1fr 1fr; }
+            .cta-group { flex-direction: column; align-items: center; }
+            .btn { width: 100%; justify-content: center; }
+        }
+
+        /* SCROLL ANIMATION */
+        .fade-in {
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        /* DIVIDER */
+        .divider {
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--primary), transparent);
+            margin: 60px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-content">
+            <h1>AYUSH SHARMA</h1>
+            <p class="subtitle">AI/ML Engineer • Cloud Architect • Community Builder</p>
+            <p class="tagline">Building RAG systems at scale • Mentored 4,000+ • Founder of 5,000+ community</p>
+            
+            <div class="cta-group">
+                <a href="mailto:ayush.sharmaa@hotmail.com" class="btn btn-primary">💬 Email Me</a>
+                <a href="https://linkedin.com/in/ayushh-sharmaa" class="btn btn-secondary">LinkedIn</a>
+                <a href="https://github.com/Ayushh-Sharmaa" class="btn btn-secondary">GitHub</a>
+            </div>
+
+            <div class="metrics">
+                <div class="metric">
+                    <div class="metric-number">5000+</div>
+                    <div class="metric-label">Community Members</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-number">4000+</div>
+                    <div class="metric-label">Learners Mentored</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-number">155K</div>
+                    <div class="metric-label">GCP Points</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-number">200+</div>
+                    <div class="metric-label">MVPs Shipped</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- CURRENT STATUS -->
+        <section>
+            <h2>🎯 Open To Opportunities</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+                <div class="stat-box">
+                    <div class="stat-number">Internship</div>
+                    <div class="stat-text">Jun • Jul • Aug 2026</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">Full-Time</div>
+                    <div class="stat-text">After Aug 2029</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">Flexible</div>
+                    <div class="stat-text">Remote • On-site • Hybrid</div>
+                </div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- EXPERIENCE -->
+        <section>
+            <h2>💼 Professional Experience</h2>
+            
+            <div class="experience-card">
+                <div class="exp-title">Google Student Ambassador 2026</div>
+                <div class="exp-company">Google • Apr 2026 - Present</div>
+                <div class="exp-description">
+                    Selected from thousands of global applicants to represent Google's ecosystem at scale.
+                </div>
+                <div class="exp-highlights">
+                    <div class="highlight">500+ Students Trained</div>
+                    <div class="highlight">5 Technical Workshops</div>
+                    <div class="highlight">GDG Partnerships</div>
+                    <div class="highlight">North India Bootcamp</div>
+                </div>
+            </div>
+
+            <div class="experience-card">
+                <div class="exp-title">Global Society of Founders</div>
+                <div class="exp-company">Founder • Jan 2026 - Present</div>
+                <div class="exp-description">
+                    Execution-first community scaled to 5,000+ members in 5 months with zero paid marketing.
+                </div>
+                <div class="exp-highlights">
+                    <div class="highlight">0 → 5,000 Members</div>
+                    <div class="highlight">200+ MVPs Shipped</div>
+                    <div class="highlight">15 Countries</div>
+                    <div class="highlight">40% Monthly Engagement</div>
+                </div>
+            </div>
+
+            <div class="experience-card">
+                <div class="exp-title">NexaSphere Campus Ecosystem</div>
+                <div class="exp-company">Founder & Organizer • Feb 2026 - Present</div>
+                <div class="exp-description">
+                    Student-led tech ecosystem with 300+ members across 5 technical tracks.
+                </div>
+                <div class="exp-highlights">
+                    <div class="highlight">300+ Members</div>
+                    <div class="highlight">8 Workshops</div>
+                    <div class="highlight">40+ Projects</div>
+                    <div class="highlight">85% Participation</div>
+                </div>
+            </div>
+
+            <div class="experience-card">
+                <div class="exp-title">Google Cloud Arcade Facilitator</div>
+                <div class="exp-company">Google Cloud Skills Boost • Jul - Oct 2025</div>
+                <div class="exp-description">
+                    Mentored 4,000+ learners through 50+ hands-on GCP labs with 92% completion rate.
+                </div>
+                <div class="exp-highlights">
+                    <div class="highlight">4,000+ Learners</div>
+                    <div class="highlight">50+ Labs</div>
+                    <div class="highlight">200+ Live Sessions</div>
+                    <div class="highlight">92% Completion Rate</div>
+                </div>
+            </div>
+
+            <div class="experience-card">
+                <div class="exp-title">GirlScript Summer of Code 2026</div>
+                <div class="exp-company">Project Admin & Mentor • May 2026 - Present</div>
+                <div class="exp-description">
+                    Multi-role contributor managing repositories, mentoring, and community building.
+                </div>
+                <div class="exp-highlights">
+                    <div class="highlight">3 Repositories</div>
+                    <div class="highlight">48-hr Code Reviews</div>
+                    <div class="highlight">20+ Mentees</div>
+                    <div class="highlight">100+ Participants</div>
+                </div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- TECHNICAL SKILLS -->
+        <section>
+            <h2>🛠️ Technical Expertise</h2>
+            
+            <h3 style="margin-top: 30px; margin-bottom: 15px; color: var(--primary);">AI & Machine Learning</h3>
+            <div class="tech-grid">
+                <div class="tech-item">RAG Pipelines</div>
+                <div class="tech-item">Vertex AI</div>
+                <div class="tech-item">Gemini API</div>
+                <div class="tech-item">TensorFlow</div>
+                <div class="tech-item">Python</div>
+                <div class="tech-item">LangChain</div>
+            </div>
+
+            <h3 style="margin-top: 30px; margin-bottom: 15px; color: var(--primary);">Cloud & DevOps</h3>
+            <div class="tech-grid">
+                <div class="tech-item">Google Cloud</div>
+                <div class="tech-item">Kubernetes</div>
+                <div class="tech-item">Docker</div>
+                <div class="tech-item">Terraform</div>
+                <div class="tech-item">BigQuery</div>
+                <div class="tech-item">Cloud Run</div>
+            </div>
+
+            <h3 style="margin-top: 30px; margin-bottom: 15px; color: var(--primary);">Web & Backend</h3>
+            <div class="tech-grid">
+                <div class="tech-item">JavaScript</div>
+                <div class="tech-item">React</div>
+                <div class="tech-item">Node.js</div>
+                <div class="tech-item">MongoDB</div>
+                <div class="tech-item">PostgreSQL</div>
+                <div class="tech-item">Git</div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- ACHIEVEMENTS -->
+        <section>
+            <h2>🏆 Certifications & Recognition</h2>
+            
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="stat-number">100+</div>
+                    <div class="stat-text">Google Cloud Badges</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">155K</div>
+                    <div class="stat-text">GCP Points</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">7</div>
+                    <div class="stat-text">Ambassador Programs</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">2</div>
+                    <div class="stat-text">Founder Status</div>
+                </div>
+            </div>
+
+            <h3 style="margin-top: 30px; color: var(--primary);">Key Badges & Certifications:</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 20px;">
+                <div class="highlight">Arcade Facilitator Certificate</div>
+                <div class="highlight">Arcade Legend Tier</div>
+                <div class="highlight">Vertex AI Skill Badge</div>
+                <div class="highlight">Multimodal RAG Certificate</div>
+                <div class="highlight">Kubernetes Management</div>
+                <div class="highlight">Cloud Security</div>
+                <div class="highlight">Neo4j Certified Professional</div>
+                <div class="highlight">Google Cloud Ambassador</div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- WHAT MAKES YOU DIFFERENT -->
+        <section>
+            <h2>✨ What Makes Me Different</h2>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Execution Speed</h3>
+                    <p>200+ MVPs shipped in 90 days. Zero marketing budget. Focus on shipping, not talking.</p>
+                </div>
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Teaching Ability</h3>
+                    <p>4,000+ learners mentored with 92% completion rate. Clear explanations at scale.</p>
+                </div>
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Community Builder</h3>
+                    <p>Founded GSF 0→5,000 in 5 months. NexaSphere 300+ students. Sustainable growth.</p>
+                </div>
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Enterprise Focus</h3>
+                    <p>RAG on Vertex AI. Production-grade systems. Scalable architecture expertise.</p>
+                </div>
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Multi-Stack</h3>
+                    <p>AI/ML • Cloud • Web • Backend • DevOps. Full-stack problem solver.</p>
+                </div>
+                <div class="experience-card">
+                    <h3 style="color: var(--primary); margin-bottom: 10px;">Growth Mindset</h3>
+                    <p>Always learning. Jumped from participant to facilitator at Google. Certified everywhere.</p>
+                </div>
+            </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <!-- CONNECT -->
+        <section style="padding: 60px 0;">
+            <h2>🔗 Let's Connect</h2>
+            
+            <div style="text-align: center; margin-top: 40px;">
+                <p style="font-size: 1.1rem; color: var(--text-muted); margin-bottom: 30px;">
+                    I respond to every message within 24 hours.<br/>
+                    Let's build something great together.
+                </p>
+                
+                <div class="cta-group">
+                    <a href="mailto:ayush.sharmaa@hotmail.com" class="btn btn-primary">💬 Email</a>
+                    <a href="https://linkedin.com/in/ayushh-sharmaa" class="btn btn-secondary">LinkedIn</a>
+                    <a href="https://x.com/xAyush07" class="btn btn-secondary">Twitter/X</a>
+                    <a href="https://github.com/Ayushh-Sharmaa" class="btn btn-secondary">GitHub</a>
+                </div>
+
+                <div class="social-links" style="margin-top: 40px;">
+                    <a href="mailto:ayush.sharmaa@hotmail.com" class="social-link" title="Email">📧</a>
+                    <a href="https://linkedin.com/in/ayushh-sharmaa" class="social-link" title="LinkedIn">💼</a>
+                    <a href="https://x.com/xAyush07" class="social-link" title="Twitter">𝕏</a>
+                    <a href="https://github.com/Ayushh-Sharmaa" class="social-link" title="GitHub">⚙️</a>
+                    <a href="https://www.skills.google/public_profiles/1b1ac0dc-2352-4584-ac57-e7b9a60cbc9c" class="social-link" title="GCP">☁️</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                <strong>Status:</strong> Open to Internship Offers (Jun • Jul • Aug 2026)
+            </p>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">
+                Execution > Education • Shipping > Talking
+            </p>
+            <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 20px;">
+                © 2026 Ayush Sharma • Last Updated: June 2026
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll animations on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('fade-in');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('section').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
